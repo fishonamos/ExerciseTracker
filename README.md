@@ -23,7 +23,7 @@ Make sure you have the following installed before setting up the project:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/fishonamos/exercisetracker.git
+   git clone https://github.com/fishonamos/ExerciseTracker.git
    ```
 
 2. Change into the project directory:
